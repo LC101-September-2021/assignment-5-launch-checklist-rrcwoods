@@ -76,7 +76,4 @@ module.exports.validateInput = validateInput;
 module.exports.formSubmission = formSubmission;
 module.exports.pickPlanet = pickPlanet; 
 module.exports.myFetch = myFetch;
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Sec
+
